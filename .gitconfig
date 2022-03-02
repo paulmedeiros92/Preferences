@@ -5,6 +5,7 @@
 	email = paulmedeiros92@gmail.com
 [alias]
 	co = checkout
+	cb = checkout -b
 	br = branch
 	ci = commit
 	cm = commit -m
