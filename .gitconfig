@@ -1,0 +1,12 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Paul Medeiros
+	email = paulmedeiros92@gmail.com
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	cm = commit -m
+	st = status
+	pu = push --set-upstream origin
